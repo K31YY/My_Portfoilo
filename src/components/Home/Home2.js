@@ -31,25 +31,25 @@ function Home2() {
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Mobile Technologies and Products </b> and
-                also in areas related to{" "}
+                also in areas related to {" "}
                 <b className="purple">
-                  Blockchain.
+                 Software Architecture, Scalable Back-End Services, and API Development.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Dart</b> and
+              with <b className="purple">Flutter/Dart</b> often Leveraging
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+                  (Firebase)
+                </b> for a complete, scalable mobile stack.
               </i>
-              &nbsp; like
+              {/* &nbsp; like
               <i>
                 <b className="purple"> Flutter </b>
-              </i>
+              </i> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
