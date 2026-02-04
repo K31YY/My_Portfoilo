@@ -1,11 +1,9 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus, CgShare } from "react-icons/cg";
+import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
-  DiDart,
   DiNodejs,
-  DiMongodb,
   DiPython,
   DiGit,
   DiJava,
@@ -14,11 +12,7 @@ import {
   DiGithub,
 } from "react-icons/di";
 import {
-  SiRedis,
   SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
   SiFlutter,
   SiKotlin,
   SiDart,
@@ -54,6 +48,18 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiLaravel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <CgCPlusPlus />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNodejs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGithub />
       </Col>
     </Row>
   );
