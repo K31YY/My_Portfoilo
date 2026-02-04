@@ -43,7 +43,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  (Firebase, MySql, REST APIs)
+                  (Firebase, MySql, REST APIs, Laravel)
                 </b> for a complete, scalable mobile stack.
               </i>
               {/* &nbsp; like
