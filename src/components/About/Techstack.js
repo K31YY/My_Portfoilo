@@ -3,7 +3,6 @@ import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
-  DiDart,
   DiNodejs,
   DiMongodb,
   DiPython,
