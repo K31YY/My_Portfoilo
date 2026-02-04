@@ -39,11 +39,11 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Flutter/Dart</b> often Leveraging
+              with <b className="purple">Kotlin/Dart</b> often Leveraging
               <i>
                 <b className="purple">
                   {" "}
-                  (Firebase)
+                  (Firebase, MySql, REST APIs)
                 </b> for a complete, scalable mobile stack.
               </i>
               {/* &nbsp; like
