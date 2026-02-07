@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiPython,
   DiGit,
@@ -11,12 +10,10 @@ import {
 } from "react-icons/di";
 import {
   SiFirebase,
-  SiPostgresql,
   SiFlutter,
   SiKotlin,
   SiDart,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
