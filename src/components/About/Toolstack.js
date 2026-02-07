@@ -22,26 +22,10 @@ function Toolstack() {
         <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiIntellijidea />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiEclipse />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiIntellij />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <DiEclipse />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiIntellij />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
       </Col>
     </Row>
   );
