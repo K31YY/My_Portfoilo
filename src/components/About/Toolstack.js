@@ -4,8 +4,6 @@ import { DiEclipse, DiIntellij } from "react-icons/di";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
-  SiIntellijidea,
   SiWindows,
 } from "react-icons/si";
 
