@@ -61,7 +61,7 @@ function Projects() {
               title="CEATIVE PRODUCT"
               description=""
               ghLink="https://github.com/K31YY"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://chatify-49.keiyy.app/"
             />
           </Col>
 
@@ -72,7 +72,7 @@ function Projects() {
               title="COMPUTER PRODUCT"
               description="."
               ghLink="https://github.com/K31YY"
-              // demoLink="https://www.youtube.com" <--------Please include a demo link here
+              demoLink="https://chatify-49.keiyy.app/"
             />
           </Col>
 
@@ -83,7 +83,7 @@ function Projects() {
               title="PRODUCT MANAGMENT"
               description=""
               ghLink="https://github.com/K31YY"
-              // demoLink="https://blogs.keiyy.tech/"      <--------Please include a demo link here 
+              demoLink="https://product-managment.keiyy.app/"
             />
           </Col>
         </Row>
