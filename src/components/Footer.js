@@ -25,7 +25,7 @@ function Footer() {
               <a
                 href="https://github.com/K31YY"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />

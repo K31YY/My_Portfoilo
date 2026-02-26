@@ -53,39 +53,6 @@ function Projects() {
               demoLink="https://editor.keiyy.tech/"              
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="CEATIVE PRODUCT"
-              description=""
-              ghLink="https://github.com/K31YY"
-              demoLink="https://chatify-49.keiyy.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={suicide}
-              isBlog={false}
-              title="COMPUTER PRODUCT"
-              description="."
-              ghLink="https://github.com/K31YY"
-              demoLink="https://chatify-49.keiyy.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title="PRODUCT MANAGMENT"
-              description=""
-              ghLink="https://github.com/K31YY"
-              demoLink="https://product-managment.keiyy.app/"
-            />
-          </Col>
         </Row>
       </Container>
     </Container>
